@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cr3ativ Careers Plugin\n"
+"POT-Creation-Date: 2014-09-30 07:44-0500\n"
+"PO-Revision-Date: 2014-09-30 07:44-0500\n"
+"Last-Translator: Barb Atkinson <barbi.atkinson@gmaill.com>\n"
+"Language-Team: Barb Atkinson <barbi.atkinson@gmaill.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cr3ativ-careers.php:52
+msgid "Cr3ativ Careers Options"
+msgstr ""
+
+#: cr3ativ-careers.php:53
+msgid "Careers Options"
+msgstr ""
+
+#: cr3ativ-careers.php:88
+msgid "Cr3ativ Careers Settings"
+msgstr ""
+
+#: cr3ativ-careers.php:157
+msgid ""
+"Please set the slug name below for your job listings single pages and "
+"department pages.  Default url for single pages is /cr3ativcareers/ and "
+"default url for department pages is /cr3ativdepartment/.  If you leave this "
+"blank, the default careers slug names will be used."
+msgstr ""
+
+#: cr3ativ-careers.php:169
+msgid "Careers Single Page Slug Name"
+msgstr ""
+
+#: cr3ativ-careers.php:173
+msgid "Department Page Slug Name"
+msgstr ""
+
+#: cr3ativ-careers.php:186
+msgid "Job Listings"
+msgstr ""
+
+#: cr3ativ-careers.php:187
+msgid "Job Listing"
+msgstr ""
+
+#: cr3ativ-careers.php:188
+msgid "Add New"
+msgstr ""
+
+#: cr3ativ-careers.php:189
+msgid "Add New Job Listing"
+msgstr ""
+
+#: cr3ativ-careers.php:190
+msgid "Edit Job Listing"
+msgstr ""
+
+#: cr3ativ-careers.php:191
+msgid "New Job Listing"
+msgstr ""
+
+#: cr3ativ-careers.php:192
+msgid "View Job Listing"
+msgstr ""
+
+#: cr3ativ-careers.php:193
+msgid "Search Job Listing"
+msgstr ""
+
+#: cr3ativ-careers.php:194
+msgid "Nothing found"
+msgstr ""
+
+#: cr3ativ-careers.php:195
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: cr3ativ-careers.php:219
+msgid "Print Icon Text"
+msgstr ""
+
+#: cr3ativ-careers.php:220
+msgid "Print This Page.  Leave blank to disable the icon."
+msgstr ""
+
+#: cr3ativ-careers.php:226
+msgid "Download Icon Text"
+msgstr ""
+
+#: cr3ativ-careers.php:227
+msgid ""
+"Download PDF File.  If you do not upload a file (see below) this text will "
+"not appear"
+msgstr ""
+
+#: cr3ativ-careers.php:233
+msgid "Attach PDF"
+msgstr ""
+
+#: cr3ativ-careers.php:234
+msgid ""
+"PDF Media Library List.  If you choose not to upload, the text you placed "
+"above (Download Icon Text) will not appear."
+msgstr ""
+
+#: cr3ativ-careers.php:241
+msgid "Career Data"
+msgstr ""
+
+#: cr3ativ-careers.php:257
+msgid "Department"
+msgstr ""
+
+#: cr3ativ-careers.php:270
+msgid "Cr3ativ Careers Page"
+msgstr ""
+
+#: includes/career-widget.php:7
+msgid "Career Loop"
+msgstr ""
+
+#: includes/career-widget.php:24
+msgid "Title"
+msgstr ""
+
+#: includes/career-widget.php:28
+msgid "# Display?"
+msgstr ""
+
+#: includes/career-widget.php:32
+msgid "Sort by ASC?"
+msgstr ""
+
+#: includes/career-widget.php:96 templates/single-cr3ativcareers.php:72
+#: templates/template-cr3ativcareers.php:28
+msgid "There are no posts to display. Try using the search."
+msgstr ""
+
+#: templates/taxonomy-cr3ativdepartment.php:40
+#: templates/template-cr3ativcareers.php:65
+msgid "Continue Reading"
+msgstr ""
+
+#: templates/template-cr3ativcareers.php:82
+msgid "Next Page"
+msgstr ""
+
+#: templates/template-cr3ativcareers.php:89
+msgid "Previous Page"
+msgstr ""
